@@ -30,7 +30,7 @@
 [![Telegram](https://img.shields.io)](https://t.me/Cl_devz)
 [![LinkedIn](https://img.shields.io)](VOTRE_LIEN_LINKEDIN)
 [![WhatsApp](https://img.shields.io)](https://wa.me)
-[![Email](https://img.shields.io)]()
+[![Email](https://img.shields.io)](cldivers44@gmail.com)
 
 ---
 
