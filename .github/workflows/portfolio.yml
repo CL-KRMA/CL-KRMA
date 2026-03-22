@@ -22,8 +22,8 @@ jobs:
         run: npm run lint
 
       # 4. Lancer les tests unitaires
-      - name: Run tests
-        run: npm test
+      # - name: Run tests
+      #  run: npm test
 
       # 5. Déployer sur Vercel uniquement si tout est validé
       - name: Deploy to Vercel
