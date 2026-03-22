@@ -11,7 +11,7 @@ export default function Contact() {
     <section className="contact-section">
       <h2 className="contact-title">📩 Me contacter</h2>
       <p className="contact-subtitle">
-        Vous avez un projet ou une idée ? Choisissez le moyen de contact qui vous convient.
+        Vous avez un projet ou une idée? Choisissez le moyen de contact qui vous convient.
       </p>
 
       <div className="contact-options">

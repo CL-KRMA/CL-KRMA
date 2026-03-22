@@ -23,7 +23,7 @@ export default function About() {
         <strong> SSL/TLS</strong> (Certbot/Let’s Encrypt).
       </p>
       <p className="about-text">
-        Mon objectif est simple : transformer vos idées en solutions 
+        Mon objectif est simple: transformer vos idées en solutions 
         digitales fiables et évolutives.
       </p>
     </div>
