@@ -5,18 +5,18 @@ export default function Projects() {
       title: "Application React/Node.js",
       description: "API REST + interface utilisateur moderne.",
       github: "https://github.com/CL-KRMA/Galerie-en-ligne-fullstack",
-      demo: "https://ton-projet-demo.com"
+      demo: "https://galerie-en-ligne-fullstack.vercel.app/"
     },
     {
-      title: "Site WordPress optimisé",
+      title: "Application Next.js",
       description: "Performance et SEO améliorés.",
-      github: "https://github.com/ton-site-wordpress",
-      demo: "https://ton-site.com"
+      github: "https://github.com/CL-KRMA",
+      demo: "https://taskflow.vercel.app/"
     },
     {
       title: "Déploiement serveur Linux",
       description: "Configuration Nginx + SSL/TLS.",
-      github: "https://github.com/ton-projet-linux",
+      github: "https://github.com/CL-KRMA/",
       demo: null
     }
   ];
