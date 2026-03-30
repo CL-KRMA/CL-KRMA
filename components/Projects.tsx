@@ -2,16 +2,16 @@
 export default function Projects() {
   const projects = [
     {
-      title: "Application React/Node.js",
+      title: "Application React/Node.js, Next.js",
       description: "API REST + interface utilisateur moderne.",
       github: "https://github.com/CL-KRMA/Galerie-en-ligne-fullstack",
       demo: "https://galerie-en-ligne-fullstack.vercel.app/"
     },
     {
-      title: "Application Next.js",
+      title: "Site WordPress optimisé",
       description: "Performance et SEO améliorés.",
       github: "https://github.com/CL-KRMA",
-      demo: "https://taskflow.vercel.app/"
+      demo: "#"
     },
     {
       title: "Déploiement serveur Linux",
