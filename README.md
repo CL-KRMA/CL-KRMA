@@ -1,12 +1,12 @@
 # Hi, I'm [Cheick L. Dev] 👋 
 
 ### 🚀 Fullstack Dev & DevOps Specialist
-**"Je m'occupe de l'infra de votre app (React, Node, WP) sur AWS EC2 / Linux. 🛡️ Sécurisé, optimisé, et prêt pour la production."**
+**"Je m'occupe de l'infra de votre app (React, Node.js, Next.js, WP) sur AWS EC2 / Linux. 🛡️ Sécurisé, optimisé, et prêt pour la production."**
 
 ---
 
 ### 🛠️ Ce que je fais pour vous :
-- **Fullstack Development:** Applications robustes avec **React** & **Node.js**.
+- **Fullstack Development:** Applications robustes avec **React**, **Node.js** & **Next.js** .
 - **WordPress Expert:** Thèmes sur mesure, optimisation de performance & sécurité.
 - **Cloud & Ops:** Déploiement sur **AWS (EC2)**, gestion **Linux** (Ubuntu/Debian), **Docker**.
 - **Serveurs Web:** Configuration avancée **Nginx** & **Apache** (Reverse Proxy, SSL).
