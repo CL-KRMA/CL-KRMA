@@ -8,6 +8,12 @@ export default function Projects() {
       demo: "https://galerie-en-ligne-fullstack.vercel.app/"
     },
     {
+      title: "Taskflow – Gestion simplifiée des tâches Next.js",
+      description: "Taskflow : API REST robuste avec interface utilisateur moderne et intuitive.",
+      github: "https://github.com/CL-KRMA/Taskflow",
+      demo: "https://taskflow-omega-teal.vercel.app/"
+    },
+    {
       title: "Site WordPress optimisé",
       description: "Performance et SEO améliorés.",
       github: "https://github.com/CL-KRMA",
