@@ -11,7 +11,7 @@ export default function Home() {
          <div className="home">
       <h1>👋 Salut, je suis <strong>Cheick L. Dev</strong></h1>
       <p>
-        <strong>Développeur Fullstack</strong> passionné par la création de solutions 
+        <strong>Ingénieur Fullstack DevOps</strong> passionné par la création de solutions 
         digitales modernes. Mon objectif: <em>transformer vos idées en expériences 
         web performantes et évolutives</em>.
       </p>

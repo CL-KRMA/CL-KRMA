@@ -4,27 +4,45 @@ export default function About() {
     <div className="about-section">
       <h2 className="about-title">👋 À propos de moi</h2>
       <p className="about-text">
-        Je suis <strong>Développeur Fullstack</strong> spécialisé dans l’écosystème 
-        <strong> JavaScript (React, Node.js, Next.js)</strong> et <strong>WordPress</strong>. 
-        J’accompagne les entreprises dans la création et le déploiement 
-        d’applications robustes, sécurisées et performantes.
-      </p>
-      <p className="about-text">
-        Mon expertise couvre le développement <strong>frontend</strong> et <strong>backend</strong>, 
-        l’optimisation de <strong>CMS</strong>, le déploiement sur serveurs <strong>Linux</strong> 
-        (AWS EC2, DigitalOcean, OVH), ainsi que la configuration avancée 
-        des serveurs web <strong>Apache</strong> et <strong>Nginx</strong> 
-        (Reverse Proxy, VirtualHosts).
-      </p>
-      <p className="about-text">
-        J’assure également la <strong>sécurisation des environnements </strong> 
-        grâce à l’installation et l’automatisation de certificats 
-        <strong> SSL/TLS</strong> (Certbot/Let’s Encrypt).
-      </p>
-      <p className="about-text">
-        Mon objectif est simple: transformer vos idées en solutions 
-        digitales fiables et évolutives.
-      </p>
+  Je suis <strong>Ingénieur Fullstack DevOps</strong> spécialisé dans l’écosystème 
+  <strong> JavaScript (React, Node.js, Next.js)</strong> et <strong>WordPress</strong>. 
+  J’accompagne les entreprises dans la conception, le développement et le déploiement 
+  d’applications robustes, sécurisées et performantes.
+</p>
+
+<p className="about-text">
+  <strong>Mon expertise couvre :</strong>
+</p>
+
+<p className="about-text">
+  <strong>Développement Fullstack</strong> : frontend et backend, optimisation de CMS.
+</p>
+
+<p className="about-text">
+  <strong>Administration systèmes</strong> : serveurs Linux (AWS EC2, DigitalOcean, OVH), 
+  configuration avancée d’Apache et Nginx (Reverse Proxy, VirtualHosts).
+</p>
+
+<p className="about-text">
+  <strong>DevOps & Cloud</strong> : CI/CD (Jenkins, GitLab CI, GitHub Actions), 
+  conteneurisation (Docker, Kubernetes), multi-cloud (AWS, Azure, GCP).
+</p>
+
+<p className="about-text">
+  <strong>Infrastructure as Code</strong> : Terraform, Ansible pour automatiser et fiabiliser les déploiements.
+</p>
+
+<p className="about-text">
+  <strong>Sécurité & Monitoring</strong> : mise en place de certificats SSL/TLS automatisés 
+  (Certbot/Let’s Encrypt), supervision avec Prometheus et Grafana.
+</p>
+
+<p className="about-text">
+  🎯 Mon objectif est simple : transformer vos idées en solutions digitales fiables, 
+  évolutives et parfaitement intégrées grâce à une approche DevOps orientée performance 
+  et automatisation.
+</p>
+
     </div>
   );
 }
