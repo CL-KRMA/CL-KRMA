@@ -58,7 +58,7 @@ export default function Skills() {
                 {item.logo ? (
                   <Image src={item.logo} alt={item.name} className="skill-logo" />
                 ) : (
-                  "✅"
+                  "🔹"
                 )}
                 <strong>{item.name}</strong>
               </li>
