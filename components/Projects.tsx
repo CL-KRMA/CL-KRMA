@@ -29,7 +29,7 @@ export default function Projects() {
 
   return (
     <div className="projects">
-      <h2>Mes projets</h2>
+      <h2 className="projects-title">🚀 Mes projets</h2>
       <div className="project-list">
         {projects.map((project, index) => (
           <div key={index} className="project-card">

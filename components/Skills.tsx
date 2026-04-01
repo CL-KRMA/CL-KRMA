@@ -3,6 +3,7 @@ import reactLogo from "../app/assets/logos/react.png";
 import nodeLogo from "../app/assets/logos/nodejs.png";
 import nextLogo from "../app/assets/logos/nextjs.png";
 import mysqlLogo from "../app/assets/logos/mysql.png";
+import postgresLogo from "../app/assets/logos/postgresql.png";
 import mongoLogo from "../app/assets/logos/mongodb.png";
 import wordpressLogo from "../app/assets/logos/wordpress.png";
 import apacheLogo from "../app/assets/logos/apache.png";
@@ -13,11 +14,12 @@ export default function Skills() {
     { category: "Frontend/Backend", items: [
       { name: "React.js", logo: reactLogo },
       { name: "Node.js (Express)", logo: nodeLogo },
-      { name: "Nextjs", logo: nextLogo },
+      { name: "Next.js", logo: nextLogo },
       { name: "API REST" }
     ]},
     { category: "Bases de données", items: [
       { name: "MySQL", logo: mysqlLogo },
+      { name: "PostgreSQL", logo: postgresLogo },
       { name: "MongoDB", logo: mongoLogo }
     ]},
     { category: "CMS", items: [

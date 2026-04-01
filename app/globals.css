@@ -228,6 +228,13 @@ body {
 /* ================================
    📂 Cartes projets
    ================================ */
+.projects-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
 .project-card {
   background: white;
   border-radius: 10px;
