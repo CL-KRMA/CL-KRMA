@@ -26,13 +26,14 @@ export default function Skills() {
       { name: "Développement et optimisation WordPress", logo: wordpressLogo }
     ]},
     { category: "Compétences DevOps", items: [
-      { name: "Versioning : Git, GitHub, GitLab"},
-      { name: "Systèmes : Linux, Bash, SSH"},
-      { name: "Conteneurs : Docker, Kubernetes"},
-      { name: "CI/CD : Jenkins, GitLab CI, GitHub Actions"},
-      { name: "Cloud : AWS, Azure, GCP"},
-      { name: "IaC : Terraform, Ansible"},
-      { name: "Monitoring : Prometheus, Grafana"}
+    { name: "Versioning : Git, GitHub, GitLab" },
+    { name: "Systèmes & Administration : Linux, Bash, SSH" },
+    { name: "Conteneurs & Orchestration : Docker, Kubernetes" },
+    { name: "CI/CD : Jenkins, GitLab CI, GitHub Actions" },
+    { name: "GitOps : ArgoCD" },
+    { name: "Cloud Providers : AWS, Azure, GCP" },
+    { name: "Infrastructure as Code (IaC) : Terraform, Ansible" },
+    { name: "Monitoring & Observabilité : Prometheus, Grafana" }
     ]},
     { category: "Serveurs Web", items: [
       { name: "Apache", logo: apacheLogo },
