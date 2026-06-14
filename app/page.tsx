@@ -9,7 +9,7 @@ export default function Home() {
     return <div>
         <Header />
          <div className="home">
-      <h1>👋 Salut, je suis <strong>Cheick L. Dev</strong></h1>
+      <h1>👋 Salut, je suis <strong>Cheick</strong></h1>
       <p>
         <strong>Ingénieur DevOps</strong> passionné par la création de solutions 
         digitales modernes. Mon objectif: <em>transformer vos idées en expériences 
