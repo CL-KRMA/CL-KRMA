@@ -1,6 +1,16 @@
-
 export default function Projects() {
   const projects = [
+    {
+      title: "Cryptodash – Projet DevOps complet",
+      description: "Pipeline DevOps complet : Infrastructure as Code (Terraform/Kubernetes), application containerisée, et déploiement GitOps automatisé avec ArgoCD.",
+      github: "https://github.com/CL-KRMA/cryptodash-infra",
+      demo: null,
+      extraLinks: [
+        { label: "Repo Infra", url: "https://github.com/CL-KRMA/cryptodash-infra" },
+        { label: "Repo App", url: "https://github.com/CL-KRMA/cryptodash-app" },
+        { label: "Repo GitOps", url: "https://github.com/CL-KRMA/cryptodash-gitops" }
+      ]
+    },
     {
       title: "Application React/Node.js, Next.js",
       description: "API REST + interface utilisateur moderne.",
@@ -12,18 +22,6 @@ export default function Projects() {
       description: "Taskflow : API REST robuste avec interface utilisateur moderne et intuitive.",
       github: "https://github.com/CL-KRMA/Taskflow",
       demo: "https://taskflow-omega-teal.vercel.app/"
-    },
-    {
-      title: "Site WordPress optimisé",
-      description: "Performance et SEO améliorés.",
-      github: "https://github.com/CL-KRMA",
-      demo: "#"
-    },
-    {
-      title: "Déploiement serveur Linux",
-      description: "Configuration Nginx + SSL/TLS.",
-      github: "https://github.com/CL-KRMA/",
-      demo: null
     }
   ];
 
@@ -46,6 +44,11 @@ export default function Projects() {
                   🌐 Voir la démo
                 </a>
               )}
+              {project.extraLinks && project.extraLinks.map((link, i) => (
+                <a key={i} href={link.url} target="_blank" rel="noopener noreferrer">
+                  📂 {link.label}
+                </a>
+              ))}
             </div>
           </div>
         ))}
