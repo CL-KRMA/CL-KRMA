@@ -1,31 +1,34 @@
 # Hi, I'm [Cheick L. Dev] 👋 
 
-### 🚀 Fullstack Dev & DevOps Specialist
-**"Je m'occupe de l'infra de votre app (React, Node.js, Next.js, WP) sur AWS EC2 / Linux. 🛡️ Sécurisé, optimisé, et prêt pour la production."**
+### 🚀 DevOps Engineer & Cloud Specialist
+**"J’automatise et sécurise vos déploiements (React, Node.js, Next.js, microservices) sur AWS/Kubernetes. 🔄 CI/CD, GitOps et monitoring inclus."**
 
 ---
 
 ### 🛠️ Ce que je fais pour vous :
-- **Fullstack Development:** Applications robustes avec **React**, **Node.js** & **Next.js** .
-- **WordPress Expert:** Thèmes sur mesure, optimisation de performance & sécurité.
-- **Cloud & Ops:** Déploiement sur **AWS (EC2)**, gestion **Linux** (Ubuntu/Debian), **Docker**.
-- **Serveurs Web:** Configuration avancée **Nginx** & **Apache** (Reverse Proxy, SSL).
-- **🚑 Support d'Urgence :** Fix des erreurs serveur (502/504) et bugs WP en **< 30 min**.
+- **Infrastructure as Code (IaC):** Provisionnement avec **Terraform** & **Ansible**.
+- **Containerisation & Orchestration:** **Docker** & **Kubernetes** (EKS, AKS, GKE).
+- **CI/CD Pipelines:** Automatisation avec **GitHub Actions**, **GitLab CI**, **Jenkins**.
+- **GitOps:** Déploiement continu avec **ArgoCD** ou **FluxCD**.
+- **Cloud & Ops:** Expertise **AWS**, **Linux** (Ubuntu/Debian), **Nginx** (reverse proxy, SSL).
+- **Monitoring & Logging:** **Prometheus**, **Grafana**, **ELK Stack**.
 
 ---
 
 ### 📊 Tech Stack
-![React](https://img.shields.io)
-![Node.js](https://img.shields.io)
-![WordPress](https://img.shields.io)
-![AWS](https://img.shields.io)
-![Nginx](https://img.shields.io)
-![Linux](https://img.shields.io)
+![Terraform](https://img.shields.io/badge/Terraform-Infra-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-orange)
+![AWS](https://img.shields.io/badge/AWS-Cloud-yellow)
+![Linux](https://img.shields.io/badge/Linux-Servers-lightgrey)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-red)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-orange)
 
 ---
 
 ### 📥 Contact / Hire Me
-*Disponible pour missions freelance et dépannages express.*
+*Disponible pour missions freelance, projets DevOps et optimisation cloud.*
 
 [![Telegram](https://img.shields.io)](https://t.me/Cl_devz)
 [![LinkedIn](https://img.shields.io)](VOTRE_LIEN_LINKEDIN)
