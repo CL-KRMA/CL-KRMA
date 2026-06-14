@@ -1,16 +1,16 @@
-# Hi, I'm [Cheick L. Dev] 👋 
+# Hi, I'm [Cheick] 👋 
 
 ### 🚀 DevOps Engineer & Cloud Specialist
-**"J’automatise et sécurise vos déploiements (React, Node.js, Next.js, microservices) sur AWS/Kubernetes. 🔄 CI/CD, GitOps et monitoring inclus."**
+**"I automate and secure your deployments (React, Node.js, Next.js, microservices) on AWS/Kubernetes. 🔄 CI/CD, GitOps, and monitoring included."**
 
 ---
 
-### 🛠️ Ce que je fais pour vous :
-- **Infrastructure as Code (IaC):** Provisionnement avec **Terraform** & **Ansible**.
-- **Containerisation & Orchestration:** **Docker** & **Kubernetes** (EKS, AKS, GKE).
-- **CI/CD Pipelines:** Automatisation avec **GitHub Actions**, **GitLab CI**, **Jenkins**.
-- **GitOps:** Déploiement continu avec **ArgoCD** ou **FluxCD**.
-- **Cloud & Ops:** Expertise **AWS**, **Linux** (Ubuntu/Debian), **Nginx** (reverse proxy, SSL).
+### 🛠️ What I Do:
+- **Infrastructure as Code (IaC):** Provisioning with **Terraform** & **Ansible**.
+- **Containerization & Orchestration:** **Docker** & **Kubernetes** (EKS, AKS, GKE).
+- **CI/CD Pipelines:** Automation with **GitHub Actions**, **GitLab CI**, **Jenkins**.
+- **GitOps:** Continuous deployment with **ArgoCD** or **FluxCD**.
+- **Cloud & Ops:** Expertise in **AWS**, **Linux** (Ubuntu/Debian), **Nginx** (reverse proxy, SSL).
 - **Monitoring & Logging:** **Prometheus**, **Grafana**, **ELK Stack**.
 
 ---
@@ -28,14 +28,14 @@
 ---
 
 ### 📥 Contact / Hire Me
-*Disponible pour missions freelance, projets DevOps et optimisation cloud.*
+*Available for freelance projects, DevOps missions, and cloud optimization.*
 
-[![Telegram](https://img.shields.io)](https://t.me/Cl_devz)
-[![LinkedIn](https://img.shields.io)](VOTRE_LIEN_LINKEDIN)
-[![WhatsApp](https://img.shields.io)](https://wa.me)
+[![Telegram](https://img.shields.io)](https://t.me/Cl_devz)  
+[![LinkedIn](https://img.shields.io)](YOUR_LINKEDIN_LINK)  
+[![WhatsApp](https://img.shields.io)](https://wa.me)  
 [![Email](https://img.shields.io)](cldivers44@gmail.com)
 
 ---
 
 ### ⚡ GitHub Stats
-![Stats de [CL-KRMA]](https://github-readme-stats.vercel.app)
+![Stats for [CL-KRMA]](https://github-readme-stats.vercel.app)
