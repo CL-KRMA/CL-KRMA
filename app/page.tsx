@@ -12,8 +12,8 @@ export default function Home() {
       <h1>👋 Salut, je suis <strong>Cheick</strong></h1>
       <p>
         <strong>Ingénieur DevOps</strong> passionné par la création de solutions 
-        digitales modernes. Mon objectif: <em>transformer vos idées en expériences 
-        web performantes et évolutives</em>.
+        digitales modernes. Mon objectif: transformer vos idées en expériences 
+        web performantes et évolutives.
       </p>
     </div>
         <About />
