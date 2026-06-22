@@ -12,6 +12,17 @@ export default function Projects() {
       ]
     },
     {
+      title: "AI‑Chat‑app – Application IA multi‑modèles",
+      description: "Application Next.js intégrant plusieurs modèles IA (Gemma, LLaMA, LLaVA) avec API REST et interface utilisateur.",
+      github: "https://github.com/CL-KRMA/AI-Chat-app",
+      demo: null,
+      extraLinks: [
+        { label: "Repo Infra", url: "https://github.com/CL-KRMA/AI-Chat-infra" },
+        { label: "Repo App", url: "https://github.com/CL-KRMA/AI-Chat-app" },
+        { label: "Repo GitOps", url: "https://github.com/CL-KRMA/AI-Chat-gitops" }
+      ]
+    },
+    {
       title: "Application React/Node.js, Next.js",
       description: "API REST + interface utilisateur moderne.",
       github: "https://github.com/CL-KRMA/Galerie-en-ligne-fullstack",
